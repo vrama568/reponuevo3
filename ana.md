@@ -10,6 +10,7 @@ afsafasi
 sajfolkjshfkjasd
 lkajhdfka
 lksajflkka
+<<<<<<< HEAD
 lakjfalk
 ñjlksafjalklskjfla
 lkjashfalklkjahfjksa
@@ -18,5 +19,13 @@ lkshfkjkahdfjkf
 lkshdfkalj
 kjjk
 lkahfkajh
+=======
+lakjfalksdfaslkjh
+kalhflkas
+ñjlksafjalk
+>>>>>>> origin/main
 jalskfjañl
 jalñksfjalks
+lkjshfla
+lakjshfk
+lhjaksfjla
